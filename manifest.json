@@ -1,0 +1,11 @@
+{
+    "name": "Covid-19 Stats UK - Indonesia",
+    "version": "1.0.0",
+    "description": "Data terakhir terpapar covid",
+    "manifest_version": 3,
+    "author": "Awan",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Data terakhir terpapar covid"
+    }
+}
